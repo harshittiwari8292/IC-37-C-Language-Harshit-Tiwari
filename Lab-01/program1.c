@@ -1,6 +1,6 @@
 /*
  * Program 1: Hello World
-/*
+*/
     
 #include <stdio.h>
 
