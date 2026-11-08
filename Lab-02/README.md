@@ -1,4 +1,4 @@
-# Lab 02 – Basic C Programming
+# Lab 02 -
 
 ## Objective
 To understand basic input, output and calculations in C.
