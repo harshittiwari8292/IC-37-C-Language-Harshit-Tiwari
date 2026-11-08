@@ -1,7 +1,5 @@
 /*
  * Program 3: Addition of Two Numbers
- * Subject: Problem Solving Using C
- * Author: Harshit Tiwari
  */
 
 #include <stdio.h>
