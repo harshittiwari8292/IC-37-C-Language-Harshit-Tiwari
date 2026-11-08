@@ -1,7 +1,5 @@
 /*
  * Program 2: Display Student Details
- * Subject: Problem Solving Using C
- * Author: Harshit Tiwari
  */
 
 #include <stdio.h>
