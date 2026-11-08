@@ -1,7 +1,5 @@
 /*
  * Program 4: Area of a Rectangle
- * Subject: Problem Solving Using C
- * Author: Harshit Tiwari
  */
 
 #include <stdio.h>
