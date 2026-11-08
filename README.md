@@ -13,12 +13,12 @@ This repository contains my C programming practicals,
 lab assignments and learning progress.
 
 ## Labs
-- Lab 01 – Introduction to C Programming
-- Lab 02 – Basic C Programs
-- Lab 03 – Data Types and Variables
-- Lab 04 – Operators and Expressions
-- Lab 05 – Conditional Statements
-- Lab 06 – Loops
-- Lab 07 – Arrays and Strings
-- Lab 08 – Functions and Pointers
-- Lab 09 – Structures and Unions
+- Lab 01 – 
+- Lab 02 – 
+- Lab 03 – 
+- Lab 04 – 
+- Lab 05 – 
+- Lab 06 – 
+- Lab 07 – 
+- Lab 08 – 
+- Lab 09 – 
