@@ -1,1 +1,22 @@
-# IC-37-C-Language-Harshit-Tiwari
+# Lab 01 – Introduction to C Programming
+
+## Subject
+Problem Solving Using C (IC-37)
+
+## Objective
+To understand the basics of C programming and write simple C programs.
+
+## Programs
+
+| Program | Description |
+|---|---|
+| 1 | Hello World |
+| 2 | Display Student Details |
+| 3 | Addition of Two Numbers |
+| 4 | Area of a Rectangle |
+
+## Language Used
+C Programming
+
+## Author
+Harshit Tiwari
